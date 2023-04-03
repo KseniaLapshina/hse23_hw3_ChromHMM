@@ -43,10 +43,6 @@ Emission Parameters | Transition Parameters | Fold Enrichment GM12878_10
 ## UCSC Genome Browser
 Настроен Custom Track с dense.bed файлом из выдачи ChromHMM.
 
-https://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=chr10%3A527041%2D642240&hgsid=1600518621_EHa5pm5uAQ6JNO5QxN4h5jETkuj8
-
-(надеюсь, ссылка будет работать, но и скрины прилагаю)
-
 chr10:89,281-204,480
 ![image](https://user-images.githubusercontent.com/114621114/229536590-15d95157-401d-4d70-b74f-3ce3a59e236a.png)
 chr10:198,721-313,920
@@ -75,8 +71,6 @@ chr10:527,041-642,240
 
 ## Бонусная часть задания
 https://colab.research.google.com/drive/1V4Mug6eBHqznC5aqzryAyFwoze8w9Bqv?usp=sharing
-
-https://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=chr10%3A54721%2D169920&hgsid=1600518621_EHa5pm5uAQ6JNO5QxN4h5jETkuj8
 
 ![image](https://user-images.githubusercontent.com/114621114/229638638-b871793f-cbfa-4319-928b-8b8d6f877c3a.png)
 ![image](https://user-images.githubusercontent.com/114621114/229638758-522ebb22-55f4-496c-8687-73010ff10d09.png)
