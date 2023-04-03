@@ -63,7 +63,7 @@ chr10:527,041-642,240
 | Тип | Эпигенетические метки | Типичное расположение | Название эпигенетического типа |
 | - | - | - | - |
 | 1 | H3K36me3 (dim) | RefSeq Gene, RefSeq Exon, RefSeq TES | - |
-| 2 | H3K79me2, H3K4me1 (dim) | RefSeq Gene | - |
+| 2 | H3K79me2, H3K4me1 (dim) | RefSeq Gene, RefSeq TES | - |
 | 3 | H3K79me2, H3K4me1, H3K4me3, H3K4me2, H3K27ac | RefSeq Gene, RefSeq TES | - |
 | 4 | H3K27ac, H3K4me3, H3K9ac, H3K79me2, H3K4me2, H2AZ, H3K4me1 | CpG Island, RefSeq Gene, RefSeq Exon, RefSeq TSS, RefSeq TSS2kb, RefSeq TES | - |
 | 5 | H3K27ac, H3K4me1, H3K4me3, H3K4me2, H2AZ, H3K9ac | RefSeq TES | - |
