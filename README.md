@@ -72,3 +72,12 @@ chr10:527,041-642,240
 | 8 | H3K4me1, H3K27ac, H3K4me3 (dim), H3K36me3 (dim), H3K79me2 (dim) | RefSeq Gene, RefSeq Exon, RefSeq TES | Transcriptional transition |
 | 9 | - | lamin ilands | Heterochromatin |
 | 10 | H3K27me3 (dim) | lamin ilands | Heterochromatin |
+
+## Бонусная часть задания
+https://colab.research.google.com/drive/1V4Mug6eBHqznC5aqzryAyFwoze8w9Bqv?usp=sharing
+
+https://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=chr10%3A54721%2D169920&hgsid=1600518621_EHa5pm5uAQ6JNO5QxN4h5jETkuj8
+
+![image](https://user-images.githubusercontent.com/114621114/229638638-b871793f-cbfa-4319-928b-8b8d6f877c3a.png)
+![image](https://user-images.githubusercontent.com/114621114/229638758-522ebb22-55f4-496c-8687-73010ff10d09.png)
+![image](https://user-images.githubusercontent.com/114621114/229638858-cc24ba47-9fab-461c-a5d1-d1c981e14dfb.png)
