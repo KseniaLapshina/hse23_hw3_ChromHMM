@@ -72,6 +72,8 @@ chr10:527,041-642,240
 ## Бонусная часть задания
 https://colab.research.google.com/drive/1V4Mug6eBHqznC5aqzryAyFwoze8w9Bqv?usp=sharing
 
+Новый файл GM12878_10_dense_new.bed приложен в формате архива в папке data.
+
 https://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=chr10%3A273601%2D388800&hgsid=1600518621_EHa5pm5uAQ6JNO5QxN4h5jETkuj8
 
 (надеюсь, ссылка будет работать, но скрины прилагаю)
