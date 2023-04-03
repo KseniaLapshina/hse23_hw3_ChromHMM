@@ -27,7 +27,7 @@
 | - | - | - |
 | Control | wgEncodeBroadHistoneGm12878Control | wgEncodeBroadHistoneGm12878ControlStdAlnRep1.bam |
 
-### ChromHMM
+## ChromHMM
 Вручную создан текстовый файл cellmarkfiletable.txt, в котором указаны тип клеток, гистоновые метки, а также соответствующие .bam файлы для эксперимента и контроля. Файл загружен в папку data.
 
 Запустили ChromHMM.
@@ -36,4 +36,6 @@ https://colab.research.google.com/drive/1V4Mug6eBHqznC5aqzryAyFwoze8w9Bqv?usp=sh
 
 Файлы (20 файлов), выданные ChromHMM, загружены в папку data.
 
-Получен HTML-отчет ChromHMM.
+Emission Parameters | Transition Parameters | Fold Enrichment GM12878_10
+-|-|-
+![](data/emissions_10.png) | ![](data/transitions_10.png) | ![](data/GM12878_10_overlap.png)
