@@ -58,9 +58,22 @@ chr10:417,601-532,800
 chr10:527,041-642,240
 ![image](https://user-images.githubusercontent.com/114621114/229541106-5c77d666-0b85-40a7-9150-a4acc7f183a1.png)
 
+## Эпигенетические типы
+Номер эпигенетического типа | Эпигенетические метки | Типичное расположение | Название эпигенетического типа
+- | - | - | -
+1 | H3K36me3 (dim) | RefSeq Gene, RefSeq Exon, RefSeq TES | -
+2 | H3K79me2, H3K4me1 (dim) | RefSeq Gene | -
+3 | H3K79me2, H3K4me1, H3K4me3, H3K4me2, H3K27ac | RefSeq Gene, RefSeq TES | -
+4 | H3K27ac, H3K4me3, H3K9ac, H3K79me2, H3K4me2, H2AZ, H3K4me1 | CpG Island, RefSeq Gene, RefSeq Exon, RefSeq TSS, RefSeq TSS2kb, RefSeq TES | -
+5 | H3K27ac, H3K4me1, H3K4me3, H3K4me2, H2AZ, H3K9ac | RefSeq TES | -
+6 | H3K4me3, H3K4me2, H3K4me1, H2AZ | CpG Island, RefSeq Exon, RefSeq TSS, RefSeq TSS2kb, RefSeq TES | -
+7 | H3K4me1, H2AZ (dim) | lamin ilands | -
+8 | H3K4me1, H3K27ac, H3K4me3 (dim), H3K36me3 (dim), H3K79me2 (dim) | RefSeq Gene, RefSeq Exon, RefSeq TES | -
+9 | - | lamin ilands | -
+10 | H3K27me3 (dim) | lamin ilands | -
+
 
 Список файлов для сдачи
 В репозитории в файле README.md:
 Табличка с номерами эпигенетических типов, их характерные эпигенетические метки и другие свойства, а также присвоенные им названия
-Список всех запущенных команд
 Результат бонусного задания (если есть)
