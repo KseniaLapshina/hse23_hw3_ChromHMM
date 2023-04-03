@@ -27,4 +27,13 @@
 | - | - | - |
 | Control | wgEncodeBroadHistoneGm12878Control | wgEncodeBroadHistoneGm12878ControlStdAlnRep1.bam |
 
-Вручную создан текстовый файл cellmarkfiletable.txt, в котором указаны тип клеток, гистоновые метки, а также соответствующие .bam файлы для эксперимента и контроля. Файл звгружен в папку data.
+### ChromHMM
+Вручную создан текстовый файл cellmarkfiletable.txt, в котором указаны тип клеток, гистоновые метки, а также соответствующие .bam файлы для эксперимента и контроля. Файл загружен в папку data.
+
+Запустили ChromHMM.
+
+https://colab.research.google.com/drive/1V4Mug6eBHqznC5aqzryAyFwoze8w9Bqv?usp=sharing
+
+Файлы (20 файлов), выданные ChromHMM, загружены в папку data.
+
+Получен HTML-отчет ChromHMM.
