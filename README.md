@@ -60,18 +60,18 @@ chr10:527,041-642,240
 
 ## Эпигенетические типы
 
-Номер эпигенетического типа | Эпигенетические метки | Типичное расположение | Название эпигенетического типа
-- | - | - | -
-1 | H3K36me3 (dim) | RefSeq Gene, RefSeq Exon, RefSeq TES | -
-2 | H3K79me2, H3K4me1 (dim) | RefSeq Gene | -
-3 | H3K79me2, H3K4me1, H3K4me3, H3K4me2, H3K27ac | RefSeq Gene, RefSeq TES | -
-4 | H3K27ac, H3K4me3, H3K9ac, H3K79me2, H3K4me2, H2AZ, H3K4me1 | CpG Island, RefSeq Gene, RefSeq Exon, RefSeq TSS, RefSeq TSS2kb, RefSeq TES | -
-5 | H3K27ac, H3K4me1, H3K4me3, H3K4me2, H2AZ, H3K9ac | RefSeq TES | -
-6 | H3K4me3, H3K4me2, H3K4me1, H2AZ | CpG Island, RefSeq Exon, RefSeq TSS, RefSeq TSS2kb, RefSeq TES | -
-7 | H3K4me1, H2AZ (dim) | lamin ilands | -
-8 | H3K4me1, H3K27ac, H3K4me3 (dim), H3K36me3 (dim), H3K79me2 (dim) | RefSeq Gene, RefSeq Exon, RefSeq TES | -
-9 | - | lamin ilands | -
-10 | H3K27me3 (dim) | lamin ilands | -
+| Номер эпигенетического типа | Эпигенетические метки | Типичное расположение | Название эпигенетического типа |
+| - | - | - | - |
+| 1 | H3K36me3 (dim) | RefSeq Gene, RefSeq Exon, RefSeq TES | - |
+| 2 | H3K79me2, H3K4me1 (dim) | RefSeq Gene | - |
+| 3 | H3K79me2, H3K4me1, H3K4me3, H3K4me2, H3K27ac | RefSeq Gene, RefSeq TES | - |
+| 4 | H3K27ac, H3K4me3, H3K9ac, H3K79me2, H3K4me2, H2AZ, H3K4me1 | CpG Island, RefSeq Gene, RefSeq Exon, RefSeq TSS, RefSeq TSS2kb, RefSeq TES | - |
+| 5 | H3K27ac, H3K4me1, H3K4me3, H3K4me2, H2AZ, H3K9ac | RefSeq TES | - |
+| 6 | H3K4me3, H3K4me2, H3K4me1, H2AZ | CpG Island, RefSeq Exon, RefSeq TSS, RefSeq TSS2kb, RefSeq TES | - |
+| 7 | H3K4me1, H2AZ (dim) | lamin ilands | - |
+| 8 | H3K4me1, H3K27ac, H3K4me3 (dim), H3K36me3 (dim), H3K79me2 (dim) | RefSeq Gene, RefSeq Exon, RefSeq TES | - |
+| 9 | - | lamin ilands | - |
+| 10 | H3K27me3 (dim) | lamin ilands | - |
 
 
 Список файлов для сдачи
