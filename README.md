@@ -41,7 +41,7 @@ Emission Parameters | Transition Parameters | Fold Enrichment GM12878_10
 ![](data/emissions_10.png) | ![](data/transitions_10.png) | ![](data/GM12878_10_overlap.png)
 
 ## UCSC Genome Browser
-Настроен Custom Track с dense.bed файлом из выдачи ChromHMM.
+Настроен Custom Track с dense.bed файлом из выдачи ChromHMM (трек дополнен CpG островками, так как они отражены на графике ChromHMM).
 
 chr10:89,281-204,480
 ![image](https://user-images.githubusercontent.com/114621114/229536590-15d95157-401d-4d70-b74f-3ce3a59e236a.png)
